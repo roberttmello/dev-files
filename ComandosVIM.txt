@@ -1,0 +1,13 @@
+:q - sair 
+i - entra no modo de inserção
+esc - entra no modo de comandos
+:w - escreve no arquivo atual
+:w novo-arquivo.txt - escreve no novo arquivo
+:wq - escreve e sai do arquivo atual
+ctrl + a - incrementa um número em modo de comando
+ctrl + x - decrementa um número em modo de comando
+:x - escreve e salva
+:set nu - insere numeração das linhas no arquivo atual
+:syntax on - insere highlight no código
+o - entra no modo inserção e insere uma linha abaixo da linha atual
+

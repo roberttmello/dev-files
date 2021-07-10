@@ -1,0 +1,22 @@
+BASH
+
+touch nome-aquivo.txt -> cria arquivo em branco
+!$ -> pega o argumento do último comando
+cat nome-arquivo.txt -> abre o arquivo 
+rm nome-arquivo.txt -> deleta o arquivo
+file nome-arquivo* -> retorna informações sobre o tipo dos arquivos que começam com "nome-arquivo"
+~ -> atalho para /home/user
+
+CODING IN C
+
+gcc -o nome-final nome-atual.c -> compila arquivo ".c"
+./ nome-arquivo -> executa nome-arquivo	
+!gcc - roda o último comando iniciado com "gcc" dado no terminal
+
+
+
+
+
+
+
+
